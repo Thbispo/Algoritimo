@@ -163,7 +163,7 @@ ano = 2032
 //Escreva um programa que leia um mês do ano e informe quantos dias ele tem.
 
 function verificarTipoTriangulo(lado1, lado2, lado3) {
-    if (lado1 <= 0 || lado2 <= 0 || lado3 <= 0) {
+    if (lado1 <= 2 || lado2 <= 4 || lado3 <= 2) {
         return "Os lados do triângulo devem ter comprimentos positivos.";
     }
 
