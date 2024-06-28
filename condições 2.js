@@ -51,7 +51,7 @@ verificarParOuImpar(numero)
 //Crie um programa que leia três números e determine qual é o maior.
 
 numero1 = 30
-numero2 = 2
+numero2 = 20
 numero3 = 25
 
 if (numero1 > numero2) {
