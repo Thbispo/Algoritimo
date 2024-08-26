@@ -1,0 +1,52 @@
+// Atividade 1 Implemente uma contagem regressiva de 10 a 0 utilizando laço de repetição
+
+// regressiva = -1
+
+// for  (regressiva = 10; regressiva >= 0; regressiva--){
+//   console.log(regressiva);
+
+// }
+
+// Atividade 2 Escreva um programa que peça ao usuário para digitar um número e exiba sua tabuada de 1 a 10.
+
+// numero = 0;
+// tabuada = prompt("Insira um número");
+
+// multiplicador = 1;
+
+// for (numero = 0; numero <= 10; numero++) {
+//   console.log(tabuada  + ' x ' + numero + ' = ' +(numero * tabuada));
+// }
+
+// Atividade 3 Calcule a soma de todos os números de 1 a 100 utilizando um laço de repetição.
+
+// soma = 0;
+
+// for (i = 1; i <= 100; i++) {
+//     soma += i;
+// }
+
+// console.log("A soma de todos os números de 1 a 100 é:", soma);
+
+// Atividade 4 Imprima todos os números pares de 1 a 20 utilizando um laço de repetição
+
+// for (let i = 1; i <= 20; i++) {
+
+//     if (i % 2 === 0) {
+//         console.log(i);
+//     }
+// }
+
+// Atividade 5
+// const numero = parseInt(prompt("Digite um número:"));
+
+// let a = 0;
+// let b = 1;
+
+// console.log(a);
+
+// for (let i = a + b; i <= numero; i = a + b) {
+//     console.log(i);
+//     a = b;
+//     b = i;
+// }
