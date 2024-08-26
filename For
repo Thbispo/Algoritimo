@@ -38,7 +38,7 @@
 // }
 
 // Atividade 5
-// const numero = parseInt(prompt("Digite um número:"));
+// const numero = prompt("Digite um número:"));
 
 // let a = 0;
 // let b = 1;
